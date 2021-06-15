@@ -48,7 +48,7 @@
     "lodash.some": "4.6.0",
     "lodash.uniq": "4.5.0",
     "nyc": "15.1.0",
-    "semantic-release": "^17.4.3",
+    "semantic-release": "^17.4.4",
     "tape-run": "9.0.0",
     "tape": "5.2.2"
   }
